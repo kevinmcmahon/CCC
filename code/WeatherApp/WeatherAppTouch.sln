@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAppTouch", "WeatherAppTouch\WeatherAppTouch.csproj", "{D3740E86-A326-475B-B0DC-D8355A5B0A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Release|iPhone.Build.0 = Release|iPhone
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D3740E86-A326-475B-B0DC-D8355A5B0A02}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WeatherAppTouch\WeatherAppTouch.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<RelativeLayout
+	    android:layout_width="fill_parent"
+    	android:layout_height="?android:attr/listPreferredItemHeight"    
+    	android:orientation="vertical" 
+		android:gravity="center_horizontal" >
+		<TextView android:id="@+id/brewery_header"
+	  			android:text="Brewery"
+	  			android:textSize="18dp"
+	  			android:padding="10dp"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	  			style="?android:attr/listSeparatorTextViewStyle"/>
+	  	<TextView android:id="@+id/brewery" 
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	  			android:padding="10dp" 
+				android:textSize="18dp"
+				android:layout_below="@+id/brewery_header"
+	  			style="@style/detail_title" />
+	  	<TextView android:id="@+id/prop_header"
+	  			android:text="Proprietor(s)"
+	  			android:textSize="18dp"
+	  			android:padding="10dp"
+				android:layout_below="@+id/brewery"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	  			style="?android:attr/listSeparatorTextViewStyle"/>
+	 	<TextView android:id="@+id/prop" 
+	   			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	   			android:padding="10dp" android:layout_below="@+id/prop_header"/>
+		<TextView android:id="@+id/phone_header"
+	  			android:text="Phone Number"
+	  			android:textSize="18dp"
+	  			android:padding="10dp"
+				android:layout_below="@+id/prop"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+				style="?android:attr/listSeparatorTextViewStyle"/>
+	  	<TextView android:id="@+id/phone"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	 			android:padding="10dp" android:layout_below="@+id/phone_header" />
+		<TextView android:id="@+id/web_header"
+	  			android:text="Website Url"
+	  			android:textSize="18dp"
+	  			android:padding="10dp"
+				android:layout_below="@+id/phone"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+				style="?android:attr/listSeparatorTextViewStyle"/>
+		<TextView android:id="@+id/web"
+	  			android:layout_width="fill_parent" android:layout_height="wrap_content"
+	 			android:padding="10dp" android:layout_below="@+id/web_header" />	
+	</RelativeLayout>
+</ScrollView>

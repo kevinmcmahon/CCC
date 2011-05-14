@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tents>
+  <tent id="1" type="big">
+    <name>Hippodrom</name>
+    <proprietor>Sepp Krätz and family</proprietor>
+    <phone_number>49 089 29 16 46 46</phone_number>
+    <fax_number>49 089 29 54 42</fax_number>
+    <url>http://www.hippodrom-oktoberfest.de</url>
+    <seating_inside>3200</seating_inside>
+    <seating_outside>1000</seating_outside>
+    <brewery>Spaten-Franziskaner-Bräu</brewery>
+    <music>Die Münchner Zwietracht</music>
+    <notes></notes>
+  </tent>
+  <tent id="2" type="big">
+    <name>Armbrustschützen-Festhalle</name>
+    <proprietor>Familie Peter Inselkammer</proprietor>
+    <phone_number>49 089 23 70 37 03</phone_number>
+    <fax_number>49 089 23 70 37 05</fax_number>
+    <url>http://www.armbrustschuetzenzelt.de</url>
+    <seating_inside>5830</seating_inside>
+    <seating_outside>1600</seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>Unterbrunner Blasmusik</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="3" type="big">
+    <name>Hofbräu-Festhalle</name>
+    <proprietor>Margot and Günter Steinberg</proprietor>
+    <phone_number>
+    </phone_number>
+    <fax_number>
+    </fax_number>
+    <url>http://www.hofbraeu-festzelt.de/</url>
+    <seating_inside>6896</seating_inside>
+    <seating_outside>3022</seating_outside>
+    <brewery>Hofbräu München</brewery>
+    <music>Plattlinger Isarspatzen conducted by Alois</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="4" type="big">
+    <name>Hackerbräu-Festhalle</name>
+    <proprietor>Christl and Toni Roiderer</proprietor>
+    <phone_number>49 081 70 73 03</phone_number>
+    <fax_number>
+    </fax_number>
+    <url>http://www.hacker-festzelt.de</url>
+    <seating_inside>6950</seating_inside>
+    <seating_outside>2400</seating_outside>
+    <brewery>Hacker-Pschorr</brewery>
+    <music>Cagey Strings Rock’n’Roll Band</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="5" type="big">
+    <name>Festhalle Schottenhamel</name>
+    <proprietor>Peter and Christian Schottenhamel</proprietor>
+    <phone_number>49 089 544 69 310</phone_number>
+    <fax_number>49 089 544 69 319</fax_number>
+    <url>http://festzelt.schottenhamel.de</url>
+    <seating_inside>6000</seating_inside>
+    <seating_outside>4000</seating_outside>
+    <brewery>Spaten-Franziskaner-Bräu</brewery>
+    <music>Otto Schwarzfischer Blaskapelle</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="6" type="big">
+    <name>"Winzerer Fähndl" Paulander-Festhalle</name>
+    <proprietor>Peter and Arabella Pongratz</proprietor>
+    <phone_number>49 089 62 17 19 10</phone_number>
+    <fax_number>49 089 62 17 19 19</fax_number>
+    <url>http://www.winzerer-faehndl.com</url>
+    <seating_inside>8450</seating_inside>
+    <seating_outside>2450</seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>Die Nockherberger</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="7" type="big">
+    <name>Schützen-Festhalle</name>
+    <proprietor>Claudia and Eduard Reinbold</proprietor>
+    <phone_number>49 (0)89 23 18 12 24</phone_number>
+    <fax_number>49 (0)89 23 18 12 44</fax_number>
+    <url>http://www.schuetzen-festzelt.de</url>
+    <seating_inside>4442</seating_inside>
+    <seating_outside>998</seating_outside>
+    <brewery>Löwenbräu</brewery>
+    <music>Die Niederalmer</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="8" type="big">
+    <name>Käfer's Wies’n-Schänke</name>
+    <proprietor>Michael Käfer</proprietor>
+    <phone_number>49 (0)89 416 83 56</phone_number>
+    <fax_number>49 (0)89 416 88 80</fax_number>
+    <url>http://www.feinkost-kaefer.de</url>
+    <seating_inside>1000</seating_inside>
+    <seating_outside>1900</seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>California Sun</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="9" type="big">
+    <name>Weinzelt - Nymphenburger Sektkellerei</name>
+    <proprietor>Roland Doris and Stephan Kuffler</proprietor>
+    <phone_number>49 (0)89 500 77 411</phone_number>
+    <fax_number>49 (0)89 502 22 362</fax_number>
+    <url>http://www.weinzelt.com/</url>
+    <seating_inside>1300</seating_inside>
+    <seating_outside>600</seating_outside>
+    <brewery>Paulaner Weißbier</brewery>
+    <music />
+    <notes />
+  </tent>
+  <tent id="10" type="big">
+    <name>Löwenbräu-Festhalle</name>
+    <proprietor>Ludwig Hagn and Stephanie Spendler</proprietor>
+    <phone_number>49 (0)89 47 76 77</phone_number>
+    <fax_number>49 (0)89 470 58 48</fax_number>
+    <url>http://www.loewenbraeu-festzelt.info</url>
+    <seating_inside>5700</seating_inside>
+    <seating_outside>2800</seating_outside>
+    <brewery>Löwenbräu</brewery>
+    <music>Bert Hansmaier’s Heldensteiner</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="11" type="big">
+    <name>"Bräurosl" Pschorrbräu-Festhalle</name>
+    <proprietor>Georg and Renate Heide</proprietor>
+    <phone_number>49 (0)89 89 55 63 53</phone_number>
+    <fax_number>49 (0)89 89 55 63 56</fax_number>
+    <url>http://www.braeurosl.de</url>
+    <seating_inside>6220</seating_inside>
+    <seating_outside>2200</seating_outside>
+    <brewery>Hacker-Pschorr</brewery>
+    <music>"Ludwig Thoma-Musicians</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="12" type="big">
+    <name>Augustiner-Festhalle</name>
+    <proprietor>Manfred Vollmer</proprietor>
+    <phone_number>49 089 23 18 32 66</phone_number>
+    <fax_number>49 089 260 53 79</fax_number>
+    <url>http://www.augustiner-braeu.de</url>
+    <seating_inside>6000</seating_inside>
+    <seating_outside>2500</seating_outside>
+    <brewery>Augustiner Bräu Wagner KG</brewery>
+    <music>Augustiner Oktoberfest band conducted by Reinhard Hagitte</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="13" type="big">
+    <name>"Ochsenbraterei" Spatenbräu-Festhalle</name>
+    <proprietor>Anneliese and Hermann Haberl and Antje Schneider</proprietor>
+    <phone_number>49 (0)89 38 38 73 12</phone_number>
+    <fax_number>49 (0)89 38 38 73 40</fax_number>
+    <url>http://www.ochsenbraterei.de</url>
+    <seating_inside>5900</seating_inside>
+    <seating_outside>1500</seating_outside>
+    <brewery>Spaten</brewery>
+    <music>"Festzeltkapelle Bruno Gress</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="14" type="big">
+    <name>Fischer-Vroni</name>
+    <proprietor>Johann und Silvia Stadtmüller</proprietor>
+    <phone_number>49 (0)89 66 10 42</phone_number>
+    <fax_number>49 (0)89 65 25 34</fax_number>
+    <url>http://www.fischer-vroni.de</url>
+    <seating_inside>2695</seating_inside>
+    <seating_outside>700</seating_outside>
+    <brewery>Augustiner</brewery>
+    <music>Sepp Folger und seine Münchner Musikanten</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="15" type="small">
+    <name>Wildmoser’s Roasted Duck and Chicken</name>
+    <proprietor>Family Wildmoser</proprietor>
+    <phone_number>49 (0)89 22 01 84</phone_number>
+    <fax_number>49 (0)89 228 58 84</fax_number>
+    <url></url>
+    <seating_inside>320</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Hacker-Pschorr</brewery>
+    <music>Die Alpen-Casanovas</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="16" type="small">
+    <name>Hochreiter's Haxnbraterei</name>
+    <proprietor>Family Hochreiter</proprietor>
+    <phone_number>49 (0)89 29 75 45</phone_number>
+    <fax_number>49 (0)89 291 30 02</fax_number>
+    <url>
+    </url>
+    <seating_inside>300</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Franziskaner and Löwenbräu</brewery>
+    <music>Die Derbys</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="17" type="small">
+    <name>Poschner's Roastes Duck and Chicken</name>
+    <proprietor>Family Luff</proprietor>
+    <phone_number>49 (0)89 50 07 73 84</phone_number>
+    <fax_number>
+    </fax_number>
+    <url>
+    </url>
+    <seating_inside>350</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Hacker-Pschorr</brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="18" type="small">
+    <name>Heimer's Roasted Duck and Chicken</name>
+    <proprietor>Helmut and Ignaz Schmid</proprietor>
+    <phone_number>49 (0)89 62 50 94 15</phone_number>
+    <fax_number>49 (0)89 62 50 94 16</fax_number>
+    <url>
+    </url>
+    <seating_inside>320</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="19" type="small">
+    <name>Glöckle Wirt</name>
+    <proprietor>Stephanie and Hanns-Werner Glöckle</proprietor>
+    <phone_number>49 (0)89 231 10 90</phone_number>
+    <fax_number>49 (0)89 64 18 10 72</fax_number>
+    <url>
+    </url>
+    <seating_inside>98</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Spaten-Franziskaner-Bräu</brewery>
+    <music>Kapelle Schubiduo</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="20" type="small">
+    <name>Heinz' Sausage and Chicken Grill</name>
+    <proprietor>Petra Brenner and Herbert Heilmaier</proprietor>
+    <phone_number>49 (0)89 434 888</phone_number>
+    <fax_number>49 (0)89 454 69 832</fax_number>
+    <url>
+    </url>
+    <seating_inside>320</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>Duo Party Time</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="21" type="small">
+    <name>Zur Bratwurst</name>
+    <proprietor>Werner Hochreiter</proprietor>
+    <phone_number>
+    </phone_number>
+    <fax_number>
+    </fax_number>
+    <url>www.zurbratwurst.de</url>
+    <seating_inside>170</seating_inside>
+    <seating_outside>40</seating_outside>
+    <brewery>Augustiner</brewery>
+    <music>Die Original Fremdgänger</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="22" type="small">
+    <name>Feisinger's Kas- und Weinstub'n</name>
+    <proprietor>Rosie and Max Feisinger</proprietor>
+    <phone_number>49 (0)89 812 63 16</phone_number>
+    <fax_number>49 (0)89 892 91 97</fax_number>
+    <url>
+    </url>
+    <seating_inside>92</seating_inside>
+    <seating_outside>90</seating_outside>
+    <brewery>"Franziskaner Weißbier</brewery>
+    <music>Weine"</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="23" type="small">
+    <name>Münchner Knödelei</name>
+    <proprietor>Florian and Bettina Oberndorfer</proprietor>
+    <phone_number>49 (0)89 48 09 05 89</phone_number>
+    <fax_number>49 (0)89 48 00 42 55</fax_number>
+    <url>
+    </url>
+    <seating_inside>300</seating_inside>
+    <seating_outside>90</seating_outside>
+    <brewery>
+    </brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="24" type="small">
+    <name>The Stiftl-Tent</name>
+    <proprietor>Maria and Lorenz Stiftl</proprietor>
+    <phone_number>49 (0)89 72 01 64 27</phone_number>
+    <fax_number>49 (0)89 72 01 64 28</fax_number>
+    <url>
+    </url>
+    <seating_inside>400</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>Paulaner</brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="25" type="small">
+    <name>Able's Kalbs-Kuchl</name>
+    <proprietor>Siegfried and Sabine Able</proprietor>
+    <phone_number>49 (0)89 31 20 550</phone_number>
+    <fax_number>49(0)89 31 20 55 15</fax_number>
+    <url>
+    </url>
+    <seating_inside>
+    </seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>Stub´n Musik from  12 a.m. and Chili-Buam from 5 p.m.</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="26" type="small">
+    <name>Schiebl's Kaffeehaferl</name>
+    <proprietor>Thomas and Valerie Schiebl</proprietor>
+    <phone_number>49 (0)89 448 44 62</phone_number>
+    <fax_number>
+    </fax_number>
+    <url>
+    </url>
+    <seating_inside>100</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="27" type="small">
+    <name>Ammer's Roasted Duck and Chicken</name>
+    <proprietor>Sepp Schmidbauer and Claudia Trott</proprietor>
+    <phone_number>49 (0)89 812 74 01</phone_number>
+    <fax_number>49 (0)89 813 22 26</fax_number>
+    <url>
+    </url>
+    <seating_inside>450</seating_inside>
+    <seating_outside>450</seating_outside>
+    <brewery>
+    </brewery>
+    <music>Claudia Sommer &amp; Band</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="28" type="small">
+    <name>Bodo's Café Tent</name>
+    <proprietor>Bodo E. Müller</proprietor>
+    <phone_number>49 (0)89 23 66 52 0</phone_number>
+    <fax_number>49 (0)89 26 36 00</fax_number>
+    <url>
+    </url>
+    <seating_inside>450</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>Jailhouse</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="29" type="small">
+    <name>Wiesn Guglhupf</name>
+    <proprietor>Dr. Marc Eisenbarth</proprietor>
+    <phone_number>
+    </phone_number>
+    <fax_number>
+    </fax_number>
+    <url>
+    </url>
+    <seating_inside>60</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>
+    </music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="30" type="small">
+    <name>Café Kaiserschmarrn</name>
+    <proprietor>Gerhard and Magnus Müller-Rischart</proprietor>
+    <phone_number>49 (0)89 231 70 08 00</phone_number>
+    <fax_number>
+    </fax_number>
+    <url>
+    </url>
+    <seating_inside>370</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>Blind Date and Magic Sound</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="31" type="small">
+    <name>Café Mohrenkopf</name>
+    <proprietor>Karin and Wilhelm Wiemes</proprietor>
+    <phone_number>
+    </phone_number>
+    <fax_number>
+    </fax_number>
+    <url>http://www.cafe-mohrenkopf.eu</url>
+    <seating_inside>420</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>"Flat Out</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="32" type="small">
+    <name>The Wildstuben</name>
+    <proprietor>Trudi Renold</proprietor>
+    <phone_number>49 (0)89 642 70 16</phone_number>
+    <fax_number>49 (0)89 255 51 32 35 7</fax_number>
+    <url>
+    </url>
+    <seating_inside>200</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>"Die Oberallgäuer</music>
+    <notes>
+    </notes>
+  </tent>
+  <tent id="33" type="small">
+    <name>Wirtshaus im Schichtl</name>
+    <proprietor>Manfred Schauer</proprietor>
+    <phone_number>49 (0)89 50 07 72 85</phone_number>
+    <fax_number>49 (0)89 75 96 453</fax_number>
+    <url></url>
+    <seating_inside>120</seating_inside>
+    <seating_outside>
+    </seating_outside>
+    <brewery>
+    </brewery>
+    <music>Zipfi Zapfi</music>
+    <notes>
+    </notes>
+  </tent>
+</tents>
